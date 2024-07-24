@@ -1,0 +1,9 @@
+table{
+    border: 50px;
+    word-spacing: normal;
+    letter-spacing: normal;
+    border-spacing: 30px;
+    text-align: left; 
+    padding: 20px;
+    column-span: ;
+}

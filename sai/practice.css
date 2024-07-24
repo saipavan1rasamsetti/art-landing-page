@@ -1,0 +1,21 @@
+.one{
+    color:gray;
+    box-decoration-break: var(.one);
+    box-shadow: 10px 10px 10px green;
+}
+.two{
+    color: violet;
+    box-shadow: 2px 2px 2px aliceblue;
+    box-decoration-break: unset;
+}
+p{
+    background-color: aqua;
+    color: black;
+    text-align: justify;
+    padding: 22px;
+    margin: 12px;
+    border: 11px;
+    font: 44px;
+    font-size: medium;
+    font-family: Arial, Helvetica, sans-serif;
+}

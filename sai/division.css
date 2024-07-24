@@ -1,0 +1,9 @@
+div>p{
+    color: rgba(100, 200, 255, 0.9);
+    background-color: wheat;
+    border-radius: 33px;
+    text-align: center;
+    border: 25px;
+    height: 22px;
+    width: 33px;
+}
